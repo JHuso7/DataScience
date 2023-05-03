@@ -1,2 +1,2 @@
 # MyBlog
-This is going to become my website blog with github pages.
+This is going to become my Data Science website blog with github pages.
