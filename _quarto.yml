@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: /docs
+
+website:
+  title: "Jonathan Husø"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+toc: true
+toc-title: "Innhold"
