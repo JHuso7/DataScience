@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science blog",
+    "section": "",
+    "text": "Befolkningsutvikling i Valdres 1951-2022\n\n\n\n\n\n\n\nanalyse\n\n\nvaldres\n\n\nbefolkning\n\n\npython\n\n\n\n\nAnalyse av befolkningsutviklingen i Valdres\n\n\n\n\n\n\nMay 3, 2023\n\n\nJonathan Husø\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/ValdresBefolkning/index.html",
+    "href": "posts/ValdresBefolkning/index.html",
+    "title": "Befolkningsutvikling i Valdres 1951-2022",
+    "section": "",
+    "text": "Fra SSB kan man finne statistikk over folketallet helt tilbake til 1951. Denne artikkelen ser nærmere på befolkningsutviklingen blant distrikt kommuner, og vil se nærmere på Valdres kommunene siden 1951 og fram til i dag. \nValdres består av kommunene Sør-Aurdal, Nord-Aurdal, Etnedal, Vestre Slidre, Østre Slidre, og Vang. Figuren under ser på folketallet og endringene for disse kommunene samlet for perioden 1951 til 2022.\n\nFor perioden fra 1951 til 1970 var utviklingen negativ, hvor folketallet gikk fra 19 299 i 1952 til 18 326 i 1970. Den negative utviklingen kommer av stor utflytting fra kommunene, men det var for perioden fødselsoverskudd. Mellom 1970 og 1987 var utviklingen helt motsatt, hvor det i 1987 var folketallet på 19 443. Dette kom av mye tilflytting til valdres kommunene. En mer negativ trend som startet i denne perioden var at men hadde fødselsunderskudd i hele denne perioden, og som har fortsatt siden. Når det siden 1987 har vært mer utflytting enn tilflytting, så har utviklingen stort sett vært negativ siden 1987.\nVi kan også ta en nærmere titt hvordan utviklingen fordeler seg mellom kjønn, men her har vi ikke statistikk på det tidligere enn 1986, som er litt synd ettersom utviklingen mellom 1951 og 1986 hadde vært mer interessant å finne ut av. Overordnet ser vi av figur under at utviklingen er relativt lik for begge kjønn fram til 2006, før det deretter spriker mer mellom kjønnene. Den negative trenden var sterkere for menn i perioden 1987 til ca. 1998. Etter 2006 har antallet menn i Valdres holdt seg stabilt, mens antallet kvinner har fortsatt en negativ trend.\n\nVi kan også prøve å se statistikken aldersfordelt i tillegg til kjønnsfordelt.\nFigurer i denne artikkelen er laget i programmeringsspråket Python, og pakken Plotly. Koder kan ses her."
+  },
+  {
+    "objectID": "posts/ValdresBefolkning/index.html#utviklingen-siden-1951",
+    "href": "posts/ValdresBefolkning/index.html#utviklingen-siden-1951",
+    "title": "Befolkningsutvikling i Valdres",
+    "section": "Utviklingen siden 1951",
+    "text": "Utviklingen siden 1951"
+  }
+]
